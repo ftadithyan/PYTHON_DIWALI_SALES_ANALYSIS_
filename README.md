@@ -1,5 +1,4 @@
 # PYTHON_DIWALI_SALES_ANALYSIS_
-Initial commit
 This project analyzes Diwali sales data using 
 
 # Python   (Pandas, Matplotlib, Seaborn)  and clustering also done.
